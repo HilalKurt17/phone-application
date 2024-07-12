@@ -1,0 +1,15 @@
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\bin\Debug\net6.0\Phone.Core.deps.json
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\bin\Debug\net6.0\Phone.Core.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\bin\Debug\net6.0\Phone.Core.pdb
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\bin\Debug\net6.0\Phone.Entities.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\bin\Debug\net6.0\Phone.Entities.pdb
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\obj\Debug\net6.0\Phone.Core.csproj.AssemblyReference.cache
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\obj\Debug\net6.0\Phone.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\obj\Debug\net6.0\Phone.Core.AssemblyInfoInputs.cache
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\obj\Debug\net6.0\Phone.Core.AssemblyInfo.cs
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\obj\Debug\net6.0\Phone.Core.csproj.CoreCompileInputs.cache
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\obj\Debug\net6.0\Phone.Core.csproj.CopyComplete
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\obj\Debug\net6.0\Phone.Core.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\obj\Debug\net6.0\refint\Phone.Core.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\obj\Debug\net6.0\Phone.Core.pdb
+C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Core\obj\Debug\net6.0\ref\Phone.Core.dll

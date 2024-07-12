@@ -1,0 +1,410 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.WFUI\\Phone.WFUI.csproj": {}
+  },
+  "projects": {
+    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj",
+        "projectName": "Phone.BLL",
+        "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj",
+        "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
+        "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj": {
+                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj"
+              },
+              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
+                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
+              },
+              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj": {
+                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj",
+        "projectName": "Phone.Core",
+        "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj",
+        "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
+        "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
+                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj",
+        "projectName": "Phone.Entities",
+        "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj",
+        "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
+        "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj",
+        "projectName": "Phone.TL",
+        "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj",
+        "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
+        "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.TL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj": {
+                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj"
+              },
+              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
+                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj",
+        "projectName": "Phone.VL",
+        "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj",
+        "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
+        "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.VL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj": {
+                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj"
+              },
+              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
+                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.WFUI\\Phone.WFUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.WFUI\\Phone.WFUI.csproj",
+        "projectName": "Phone.WFUI",
+        "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.WFUI\\Phone.WFUI.csproj",
+        "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
+        "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.WFUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
+                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
+              },
+              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj": {
+                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
