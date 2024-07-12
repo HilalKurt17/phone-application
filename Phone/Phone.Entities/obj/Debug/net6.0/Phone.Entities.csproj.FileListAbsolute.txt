@@ -10,3 +10,15 @@ C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Entities\obj\De
 C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Entities\obj\Debug\net6.0\refint\Phone.Entities.dll
 C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Entities\obj\Debug\net6.0\Phone.Entities.pdb
 C:\visual_studio_examples\MyCourses\PhoneApplication\Phone\Phone.Entities\obj\Debug\net6.0\ref\Phone.Entities.dll
+C:\PhoneApplication\Phone\Phone.Entities\bin\Debug\net6.0\Phone.Entities.deps.json
+C:\PhoneApplication\Phone\Phone.Entities\bin\Debug\net6.0\Phone.Entities.dll
+C:\PhoneApplication\Phone\Phone.Entities\bin\Debug\net6.0\Phone.Entities.pdb
+C:\PhoneApplication\Phone\Phone.Entities\obj\Debug\net6.0\Phone.Entities.csproj.AssemblyReference.cache
+C:\PhoneApplication\Phone\Phone.Entities\obj\Debug\net6.0\Phone.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\PhoneApplication\Phone\Phone.Entities\obj\Debug\net6.0\Phone.Entities.AssemblyInfoInputs.cache
+C:\PhoneApplication\Phone\Phone.Entities\obj\Debug\net6.0\Phone.Entities.AssemblyInfo.cs
+C:\PhoneApplication\Phone\Phone.Entities\obj\Debug\net6.0\Phone.Entities.csproj.CoreCompileInputs.cache
+C:\PhoneApplication\Phone\Phone.Entities\obj\Debug\net6.0\Phone.Entities.dll
+C:\PhoneApplication\Phone\Phone.Entities\obj\Debug\net6.0\refint\Phone.Entities.dll
+C:\PhoneApplication\Phone\Phone.Entities\obj\Debug\net6.0\Phone.Entities.pdb
+C:\PhoneApplication\Phone\Phone.Entities\obj\Debug\net6.0\ref\Phone.Entities.dll

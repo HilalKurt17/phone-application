@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0rx9Grfj2Yn0g8A82K3L9jOkF5vjZxI/a8O+UymI8JHVuhPmo7dfLtpM9SQKQFQFQqNib1p61uWKyyB6i5VJhQ==",
+  "dgSpecHash": "uyCMP0gfrHnZtWC/depQ2tnzswnGBppI7ADtze5xz5I6rke8AXe5g5/kMQH0N33klQ3eaCpqYVK4WsNZW5GFVg==",
   "success": true,
-  "projectFilePath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj",
+  "projectFilePath": "C:\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hilal\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Hilal\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

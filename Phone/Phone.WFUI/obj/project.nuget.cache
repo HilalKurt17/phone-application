@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nL24IAJni8mKpsCXblMkMghv0fjD1l7PMjhqze0Q8xxGlmscJPKUCGwCe+V+4HWpEnVEgBD6LeFMBListeTgvw==",
+  "dgSpecHash": "ddRnIn+SDgeJf8AWkCKDKqANKrYrnk8qdogeuUij1tw9pXu/+AJxaHDt2hLJYYu5k7L1MX5Rz0iFGI1zSTY/og==",
   "success": true,
-  "projectFilePath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.WFUI\\Phone.WFUI.csproj",
+  "projectFilePath": "C:\\PhoneApplication\\Phone\\Phone.WFUI\\Phone.WFUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hilal\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Hilal\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

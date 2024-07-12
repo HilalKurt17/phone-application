@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5e+WpFx+SaFP2/1s5eoVvvN36aewxIZYudHw25ZjPEM5qHBVWWA94mGWySEdWY+FqKyqbfAIqnOVDjJ1dlGoSw==",
+  "dgSpecHash": "bWHa0f++ay/iaiwBAvjwXi5nTJmgf0iq9nTVsbkcSNpraspVcl6d4JatzYuhvWf6zp4fNfpt+JclGA7uD0niMw==",
   "success": true,
-  "projectFilePath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj",
+  "projectFilePath": "C:\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hilal\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Hilal\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

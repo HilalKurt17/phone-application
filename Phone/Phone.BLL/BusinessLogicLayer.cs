@@ -189,8 +189,9 @@ namespace Phone.BLL
                             mobile2 = separatedLine[6].ToString(),
                             mobile3 = separatedLine[7].ToString(),
                             phoneWork = separatedLine[8].ToString(),
-                            birthday = DateTime.Parse(separatedLine[9]),
-                            anniversary = DateTime.Parse(separatedLine[10]),
+
+                            birthday = !string.IsNullOrWhiteSpace(separatedLine[9]) ? DateTime.Parse(separatedLine[9]) : (DateTime?)null,
+                            anniversary = !string.IsNullOrWhiteSpace(separatedLine[10]) ? DateTime.Parse(separatedLine[10]) : (DateTime?)null,
                             email = separatedLine[11].ToString(),
                             _address = separatedLine[12].ToString()
 

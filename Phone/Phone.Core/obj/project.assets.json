@@ -516,11 +516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj",
+      "projectUniqueName": "C:\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj",
       "projectName": "Phone.Core",
-      "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj",
+      "projectPath": "C:\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj",
       "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
-      "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\obj\\",
+      "outputPath": "C:\\PhoneApplication\\Phone\\Phone.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -541,8 +541,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
-              "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
+            "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
+              "projectPath": "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
             }
           }
         }

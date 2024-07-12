@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj": {}
+    "C:\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj": {}
   },
   "projects": {
-    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj": {
+    "C:\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj",
+        "projectUniqueName": "C:\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj",
         "projectName": "Phone.BLL",
-        "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj",
+        "projectPath": "C:\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj",
         "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\obj\\",
+        "outputPath": "C:\\PhoneApplication\\Phone\\Phone.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj": {
-                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj"
+              "C:\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj": {
+                "projectPath": "C:\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj"
               },
-              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
-                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
+              "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
+                "projectPath": "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
               },
-              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj": {
-                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj"
+              "C:\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj": {
+                "projectPath": "C:\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj": {
+    "C:\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj",
+        "projectUniqueName": "C:\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj",
         "projectName": "Phone.Core",
-        "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj",
+        "projectPath": "C:\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj",
         "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\obj\\",
+        "outputPath": "C:\\PhoneApplication\\Phone\\Phone.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,8 +106,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
-                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
+              "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
+                "projectPath": "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
+    "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj",
+        "projectUniqueName": "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj",
         "projectName": "Phone.Entities",
-        "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj",
+        "projectPath": "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj",
         "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\obj\\",
+        "outputPath": "C:\\PhoneApplication\\Phone\\Phone.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -208,14 +208,14 @@
         }
       }
     },
-    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj": {
+    "C:\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj",
+        "projectUniqueName": "C:\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj",
         "projectName": "Phone.TL",
-        "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj",
+        "projectPath": "C:\\PhoneApplication\\Phone\\Phone.TL\\Phone.TL.csproj",
         "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.TL\\obj\\",
+        "outputPath": "C:\\PhoneApplication\\Phone\\Phone.TL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -236,11 +236,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj": {
-                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj"
+              "C:\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj": {
+                "projectPath": "C:\\PhoneApplication\\Phone\\Phone.Core\\Phone.Core.csproj"
               },
-              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
-                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
+              "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
+                "projectPath": "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
               }
             }
           }
@@ -273,14 +273,14 @@
         }
       }
     },
-    "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj": {
+    "C:\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj",
+        "projectUniqueName": "C:\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj",
         "projectName": "Phone.VL",
-        "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj",
+        "projectPath": "C:\\PhoneApplication\\Phone\\Phone.VL\\Phone.VL.csproj",
         "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.VL\\obj\\",
+        "outputPath": "C:\\PhoneApplication\\Phone\\Phone.VL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -301,11 +301,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj": {
-                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj"
+              "C:\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj": {
+                "projectPath": "C:\\PhoneApplication\\Phone\\Phone.BLL\\Phone.BLL.csproj"
               },
-              "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
-                "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
+              "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj": {
+                "projectPath": "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj"
               }
             }
           }

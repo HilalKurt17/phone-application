@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj",
+      "projectUniqueName": "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj",
       "projectName": "Phone.Entities",
-      "projectPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj",
+      "projectPath": "C:\\PhoneApplication\\Phone\\Phone.Entities\\Phone.Entities.csproj",
       "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
-      "outputPath": "C:\\visual_studio_examples\\MyCourses\\PhoneApplication\\Phone\\Phone.Entities\\obj\\",
+      "outputPath": "C:\\PhoneApplication\\Phone\\Phone.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
