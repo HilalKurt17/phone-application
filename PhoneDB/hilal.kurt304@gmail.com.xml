@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfContacts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contacts>
+    <contactId>82916319-53bd-4dc7-a5da-6ccc00b5f717</contactId>
+    <userId>a8a371a5-baf5-4f1c-8e7b-6af32cd9c283</userId>
+    <contactName>Annem</contactName>
+    <contactSurname />
+    <phoneHome />
+    <mobile>01123658744</mobile>
+    <mobile2 />
+    <mobile3 />
+    <phoneWork />
+    <birthday>1978-04-02T00:00:00</birthday>
+    <anniversary xsi:nil="true" />
+    <email>abc@hotmail.com</email>
+  </Contacts>
+  <Contacts>
+    <contactId>2681a0ad-aafe-4fd6-8563-76e2b1eaebbb</contactId>
+    <userId>a8a371a5-baf5-4f1c-8e7b-6af32cd9c283</userId>
+    <contactName>Babam</contactName>
+    <contactSurname />
+    <phoneHome />
+    <mobile>02157896933</mobile>
+    <mobile2 />
+    <mobile3 />
+    <phoneWork />
+    <birthday>1974-04-01T00:00:00</birthday>
+    <anniversary xsi:nil="true" />
+    <email>baba@gmail.com</email>
+  </Contacts>
+</ArrayOfContacts>
