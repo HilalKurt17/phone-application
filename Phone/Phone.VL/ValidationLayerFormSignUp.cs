@@ -12,7 +12,7 @@ namespace Phone.VL
         // control sign up form textboxes if they are filled properly or not.
         public int controlTextBoxes(string userName, string email, string password)
         {
-            if (String.IsNullOrEmpty(userName) && String.IsNullOrEmpty(email) && String.IsNullOrEmpty(password))
+            if (String.IsNullOrEmpty(userName) || String.IsNullOrEmpty(email) || String.IsNullOrEmpty(password))
             {
                 return -1; // if  there is an empty textbox, warn the user
             }
